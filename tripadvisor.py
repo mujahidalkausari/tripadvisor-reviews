@@ -49,4 +49,4 @@ def TripAdvisorScraper(link):
     #print(json.dumps(reviews, sort_keys=True, indent=2))
     
     
-TripAdvisorScraper('https://www.tripadvisor.ca/Hotel_Review-g60982-d87016-Reviews-Hilton_Hawaiian_Village_Waikiki_Beach_Resort-Honolulu_Oahu_Hawaii.html ')
+TripAdvisorScraper('https://www.tripadvisor.ca/Hotel_Review-g60982-d87016-Reviews-Hilton_Hawaiian_Village_Waikiki_Beach_Resort-Honolulu_Oahu_Hawaii.html')
